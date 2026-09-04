@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Israel 👋
 
-<!--
-**israelbecort/israelbecort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Integration Technical Lead focused on enterprise integrations, APIs and integration architecture.
 
-Here are some ideas to get you started:
+## 🧩 Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enterprise Application Integration
+- API Design & Integration
+- Integration Architecture
+- Event-Driven Architecture
+- Microservices
+- Technical Leadership
+
+## 🛠 Technologies
+
+**Integration**
+MuleSoft · IBM App Connect Enterprise · IBM MQ
+
+**Backend**
+Java · Spring Boot
+
+**APIs**
+REST · SOAP · OpenAPI
+
+**Messaging**
+Kafka · IBM MQ
+
+**DevOps & Tools**
+Git · Docker · CI/CD
+
+**Data**
+SQL · PostgreSQL · MySQL
+
+## 🚀 Currently working on
+
+Building reference architectures and practical examples for enterprise integration patterns.
+
+## 📫 Connect
+
+LinkedIn: [Israel Becerra Ortiz](https://www.linkedin.com/in/israelbecerraortiz/)
